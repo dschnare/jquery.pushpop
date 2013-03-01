@@ -1,5 +1,6 @@
 /*
 name: jQuery Push Pop
+version: 0.0.2
 author: Darren Schnare
 constributors: Mathieu Bouchard
 copyright: Darren Schnare, Mathieu Bouchard 2013
