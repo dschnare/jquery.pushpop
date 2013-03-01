@@ -2,7 +2,7 @@
 name: jQuery Push Pop
 version: 0.0.2
 author: Darren Schnare
-constributors: Mathieu Bouchard
+contributors: Mathieu Bouchard
 copyright: Darren Schnare, Mathieu Bouchard 2013
 license: MIT (http://opensource.org/licenses/MIT)
 */
