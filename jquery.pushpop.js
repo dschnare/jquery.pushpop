@@ -17,6 +17,7 @@ license: MIT (http://opensource.org/licenses/MIT)
 		return Object.prototype.toString.call(o) === '[object Array]';
 	}
 
+	/// Methods ///
 
 	var methods = {
 		// pushAttr(attributeName, value)
