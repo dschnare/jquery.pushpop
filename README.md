@@ -37,7 +37,7 @@ A simple jQuery plugin that makes managing attributes, classes and styles easier
 
 # API
 
-*Attributes*
+**Attributes**
 
 	pushAttr(attributeName, value)
 	pushAttr(attributeName, function(index, attr))
@@ -45,7 +45,7 @@ A simple jQuery plugin that makes managing attributes, classes and styles easier
 	popAttr()
 	clearAttrs()
 
-*Classes*
+**Classes**
 
 	pushClass(className)
 	pushClass(function(index, currentClass))
@@ -55,7 +55,7 @@ A simple jQuery plugin that makes managing attributes, classes and styles easier
 	toggleClass(className)
 	toggleClass(className, className)
 
-*CSS*
+**CSS**
 
 	pushCss(propertyName, value)
 	pushCss(propertyName, function(index, value))
